@@ -145,8 +145,8 @@ public class Program
         Q23(7);
         Console.WriteLine();
 
-        // Test Question 48
-        Console.WriteLine("Test Question 48");
+        // Test Question 24
+        Console.WriteLine("Test Question 24");
         Console.WriteLine("Enter (1) for area of Circle ");
         Console.WriteLine("Enter (2) for area of Rectangle ");
         Console.WriteLine("Enter (3) for area of Triangle ");
@@ -154,37 +154,6 @@ public class Program
         Q24(options);
         Console.WriteLine();
 
-        // Test Question 22
-        Console.WriteLine("Test Question 22");
-        Console.WriteLine();
-
-        // Test Question 23
-        Console.WriteLine("Test Question 23");
-        Console.WriteLine();
-
-        // Test Question 24
-        Console.WriteLine("Test Question 24");
-        Console.WriteLine();
-
-        // Test Question 25
-        Console.WriteLine("Test Question 25");
-        Console.WriteLine();
-
-        // Test Question 26
-        Console.WriteLine("Test Question 26");
-        Console.WriteLine();
-
-        // Test Question 27
-        Console.WriteLine("Test Question 27");
-        Console.WriteLine();
-
-        // Test Question 28
-        Console.WriteLine("Test Question 28");
-        Console.WriteLine();
-
-        // Test Question 29
-        Console.WriteLine("Test Question 29");
-        Console.WriteLine();
     }
 
 
